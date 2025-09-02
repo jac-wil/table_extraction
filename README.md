@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Table Extraction & Reconstruction
 
 Robust document AI engineering for noisy, skewed, and distorted tables.
@@ -96,3 +97,6 @@ This will:
 
 ## 📜 License
 MIT License © 2025 Jacob Wilson
+=======
+# table_extraction
+>>>>>>> 06a0c7fb43155810f2a33e57cf3dc104a9e2942e
